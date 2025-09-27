@@ -1,0 +1,5 @@
+MAPPY-Digital-Marketing-Agency/
+│
+├── index.html
+├── style.css
+└── script.js

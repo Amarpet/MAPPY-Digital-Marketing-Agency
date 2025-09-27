@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MAPI Digital Marketing Agency | Data & Research Services</title>
+  <meta name="description" content="MAPI Digital Marketing Agency provides digital marketing, data management, and research services to help businesses grow and make informed decisions." />
+  <meta name="keywords" content="digital marketing, data management, SEO, research services, MAPI Agency" />
+
+  <!-- Open Graph for social media preview -->
+  <meta property="og:title" content="MAPI Digital Marketing Agency" />
+  <meta property="og:description" content="Digital marketing, data services, and research solutions for business growth." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://yourusername.github.io/MAPPY-Digital-Marketing-Agency/" />
+  <meta property="og:image" content="https://via.placeholder.com/600x300.png?text=MAPI+Agency" />
+
+  <!-- Link to external CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>MAPI Digital Marketing Agency</h1>
+    <nav>
+      <a href="#services">Services</a>
+      <a href="#research">Research</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Services Section -->
+  <section id="services">
+    <h2>Our Services</h2>
+    <div class="services">
+      <div class="card">
+        <h3>Digital Marketing</h3>
+        <p>SEO, social media campaigns, and targeted advertising to help your brand grow and reach more customers.</p>
+      </div>
+      <div class="card">
+        <h3>Data Management</h3>
+        <p>Data analysis, visualization, and ratio tracking to drive smarter business decisions.</p>
+      </div>
+      <div class="card">
+        <h3>Research Solutions</h3>
+        <p>Academic and business research support, from concept development to data-driven reporting.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Research Section -->
+  <section id="research">
+    <h2>Why Research Matters</h2>
+    <p>At MAPI, we believe research powers innovation. We combine digital strategies with data insights to deliver results that are measurable and sustainable.</p>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <form>
+      <input type="text" placeholder="Your Name" required />
+      <input type="email" placeholder="Your Email" required />
+      <textarea rows="5" placeholder="Your Message"></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 MAPI Digital Marketing Agency | All Rights Reserved</p>
+  </footer>
+
+  <!-- External JS -->
+  <script src="script.js"></script>
+</body>
+</html>
